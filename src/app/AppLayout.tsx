@@ -52,6 +52,7 @@ export function AppLayout() {
             className="logout-button"
             onClick={logout}
             title="Cerrar sesión"
+            aria-label="Cerrar sesión"
           >
             <LogOut size={17} />
           </button>
