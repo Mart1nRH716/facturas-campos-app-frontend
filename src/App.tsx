@@ -84,11 +84,11 @@ function LoginPage() {
           </span>
         </div>
         <div className="login-quote">
-          <span className="eyebrow">GESTIÓN FISCAL, SIN FRICCIÓN</span>
-          <h1>Tu operación financiera, en orden.</h1>
+          <span className="eyebrow">PROCESAMIENTO DE XMLS</span>
+          <h1>Recuperación masiva de campos xml en un zip</h1>
           <p>
-            Centraliza catálogos y procesa tus facturas con una vista clara de
-            cada lote.
+            Centraliza catálogos y procesa las facturas con una vista clara de
+            cada XML.
           </p>
         </div>
         <div className="login-orbit orbit-one" />
